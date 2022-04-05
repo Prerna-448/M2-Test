@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/flower"
+        android:icon="@drawable/flower"
+        android:title="" />
+
+    <item
+        android:id="@+id/chatnav"
+        android:icon="@drawable/chatnav"
+        android:title="" />
+
+    <item
+        android:id="@+id/plusnav"
+        android:icon="@drawable/plusnav"
+        android:title="" />
+
+    <item
+        android:id="@+id/chat"
+        android:icon="@drawable/chat"
+        android:title=""/>
+
+    <item
+        android:id="@+id/profilenav"
+        android:icon="@drawable/profilenav"
+        android:title="" />
+</menu>

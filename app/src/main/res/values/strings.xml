@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">M2 Test</string>
+    <string name="login">Login Now</string>
+    <string name="text">Please enter the details below to continue.</string>
+    <string name="email">Enter Email Id</string>
+    <string name="password">Enter Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up"><u>Sign Up</u></string>
+    <string name="sign_in_to_your_account">Sign in to your account</string>
+    <string name="signup">Sign Up</string>
+    <string name="full_name">Enter Full Name</string>
+    <string name="user_name">Enter User Name</string>
+    <string name="email_id">Enter Email Id</string>
+    <string name="phone_number">Enter Phone Number</string>
+    <string name="checkboxtext">I agree to only post truthful and relevant information that is helpful to others, i understand voilating this will result in my account removal.</string>
+    <string name="loginback"><u>Login</u></string>
+    <string name="social_media_link">Social media link</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_confirm_password">Enter Confirm Password</string>
+</resources>
