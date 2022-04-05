@@ -140,7 +140,7 @@ class SignUp : AppCompatActivity() {
             val nameREGEX = Pattern.compile("^[aA-zZ\\s]+\$");
             return nameREGEX.matcher(name).matches()
         }
-
+//commentss
 
 
     private fun checkEmail(email: String): Boolean {
